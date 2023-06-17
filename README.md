@@ -1,0 +1,1 @@
+This is basically my first fully-built website created for my course work in the Kyiv Polytechnic Institute. I have also transfered this plain html, css, js code to laravel, so i also added some backend features, such as working with database, filters, choosing of product properties (size, color, etc.), form sending to email functionality ( https://github.com/SupCS/kaliework ) 
